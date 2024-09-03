@@ -1,0 +1,9 @@
+name = "cf-next-auth-d1"
+compatibility_date = "2024-07-29"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+workers_dev = true
+account_id = "44d2769474e024e5ac0424ec6b56f3fd"
+[[d1_databases]]
+binding = "DB"
+database_id = "c92e8cfd-78dc-4aa4-9774-5d874b948127"
